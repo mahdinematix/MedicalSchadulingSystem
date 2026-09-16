@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/Application/">
+    <Project Path="Application/MS.Application.Contracts/MS.Application.Contracts.csproj" Id="6248f6a6-2d19-4069-860b-b4363b606a4e" />
+    <Project Path="Application/MS.Application/MS.Application.csproj" Id="3066acf2-57cf-41ed-aea6-888d34e38dc2" />
+  </Folder>
+  <Folder Name="/Domain/">
+    <Project Path="Domain/MS.Domain/MS.Domain.csproj" Id="aa1be224-dfbd-4878-b699-41e9902223a0" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Infrastructure/MS.Infrastructure.Configuration/MS.Infrastructure.Configuration.csproj" Id="a8d4e511-e035-4fa0-9f34-27a59cb8e784" />
+    <Project Path="Infrastructure/MS.Infrastructure.EFCore/MS.Infrastructure.EFCore.csproj" Id="7c544905-8ad0-40a3-8d90-1dd8d249bae2" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="Presentation/MS.Presentation.WebApi/MS.Presentation.WebApi.csproj" Id="6ccc8c73-012f-4ec7-ae28-0ac0872c7aa2" />
+  </Folder>
+</Solution>

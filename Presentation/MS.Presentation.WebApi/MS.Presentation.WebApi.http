@@ -1,0 +1,6 @@
+@MS.Presentation.WebApi_HostAddress = http://localhost:5224
+
+GET {{MS.Presentation.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
