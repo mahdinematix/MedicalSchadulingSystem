@@ -3,6 +3,8 @@
 
 A learning-focused ASP.NET Core Web API project built to explore **Clean Architecture**, **CQRS**, and **MediatR** together in a practical codebase. After studying these concepts individually, I wanted to understand how they work together in an actual application rather than only as separate ideas.
 
+To see Screenshots : https://my.files.ir/drive/s/3ysgXNrPRanaPdXUE7aCEO74RsEksW
+
 The business domain is intentionally kept small: the API manages patients and doctors and supports basic appointment scheduling. I chose a relatively straightforward domain on purpose. My main goal was not to build a large healthcare product or spend most of the time on complex business rules; it was to focus on architectural boundaries, request handling, dependency direction, and the trade-offs that come with these design choices.
 
 This was my first project where I implemented CQRS in this form alongside MediatR and Clean Architecture. I had used CQRS-related ideas before, but this project gave me the opportunity to apply the pattern through explicit commands, queries, and request handlers.
